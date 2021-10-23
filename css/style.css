@@ -1,0 +1,91 @@
+@font-face {
+	font-family: 'Playfair Display', serif;
+}
+html{
+	scroll-behavior: smooth;
+	font-family: 'Playfair Display', serif;
+}
+*{
+font-family: 'Playfair Display', serif;	
+}
+.header{
+	padding: 40px 0;
+}
+.menu ul li{
+	padding: 0 20px;
+}
+.menu ul li a{
+	font-size: 14px;
+	font-weight: 500;
+	color: #626262 !important;
+	text-transform: uppercase;
+}
+.comment{
+	padding: 80px 0;
+}
+.comment h5{
+	color: #b4ad9e !important;
+	text-transform: uppercase;
+}
+.comment h1{
+	font-size: 30px;
+	font-weight: 800;
+	color: #626262 !important;
+}
+.comment p{
+	color: #626262 !important;
+}
+
+/* gellary strat */
+.gellary{
+	padding: 80px 0;
+}
+.gellary-content h5{
+	color: #626262 !important;
+	margin: 15px 0 0 0;
+}
+.gellary-content h3{
+	color: #626262 !important;
+	margin: 15px 0;
+}
+.gellary-content p{
+	color: #626262 !important;
+}
+/* sing up */
+
+.sing_up{
+	padding: 80px 0;
+	background-color: #f0f0f0;
+}
+.sing_up h3{
+	color: #626262 !important;
+	padding: 60px 0;
+
+}
+.input-group-custom{
+	border-bottom: 2px solid black;
+}
+.form-control-custom{
+	border: none;
+
+}
+.input-group-text-custom{
+	border: none;
+}
+.btn-custom{
+	border: 1px solid #626262;
+	border-radius: 0px;
+	padding: 10px 35px;
+	font-weight: 600;
+	color: #626262;
+}
+
+/* footer */
+.footer{
+	background-color: #f0f0f0;
+	padding: 44px 0;
+}
+.terms li a{
+	text-decoration: none;
+	color: #000000;
+}
